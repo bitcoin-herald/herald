@@ -1,0 +1,285 @@
+---
+title: "Block #791985"
+date: "2023-05-29"
+author: "Tony"
+thumbnail: https://nostr.build/p/nb9820.png
+---
+
+Hello, bitcoiner!
+
+![1](https://nostr.build/i/f72587090e8103e4d94b9460715ae20ade72ea5d3cb8e219d2df471ecf8f0cca.jpg)
+
+Today, 13 years ago, the first purchase of a physical product for bitcoin [was made](https://bitcal.21ideas.org/) - Laszlo Heiniz exchanged 10,000 bitcoins for two pizzas. And while many today are perplexed as to how it was possible to spend such an incredible amount of bitcoins for lunch, the more interesting question is: how was it possible to part with two perfectly good pizzas in exchange for some magical internet money?
+
+This week's topics:
+
+🍕The biggest Bitcoin holiday
+
+🧑‍💻Trezor hacked again?
+
+🤡 When a troll turns out to be a clown
+
+👨‍💻 Ledger opens some more code
+
+🇨🇳 China is craving for Bitcoin
+
+🎭 Coinbase struggles to gain attention
+
+⚡️ Blockstream and zapvertising
+
+🐸 Curated feeds and a meme relay by nostr:npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7
+
+⚡️ Zap button for your website
+
+👨‍💻 Fresh releases
+
+![2](https://nostr.build/p/nb9812.png)
+
+Mempool: ![2](https://nostr.build/i/819e151552f4c46140a90d59719b5d55680319a9a3a6e5df68419f64b8440a5a.jpg)
+
+
+
+Lightning: ![2](https://nostr.build/i/a1cdf16f29e9ee9b97fb6a90c67bdfe97c21945bd9b055eb9b0f15d52b88e079.jpg)
+
+Mining: ![2](https://nostr.build/i/79e0f31c67af9a8b8eaec22bddb6490ac21316fab336ca2cebd5f111a7dfffa0.jpg)
+
+> For up-to-date information on the Bitcoin and Lightning networks, visit https://mempool.space/
+
+![2](https://nostr.build/p/nb9813.png)
+
+🍕The biggest Bitcoin holiday
+-----------------------------
+
+*On 22 May 2010, Laszlo Hanyecz purchased 2 pizzas for 10,000 BTC, thus becoming the first person in history to pay for a good with bitcoin.*
+
+![2](https://www.21ideas.org/content/images/2023/05/data-src-image-8c3b8b6d-5f5c-48d3-823b-06f8dfc60ab5.png)
+
+Back on May 22, 2010, an incredible milestone in Bitcoin history occurred. Laszlo Hanyecz, a visionary programmer, made a groundbreaking move by purchasing two pizzas for a remarkable price of 10,000 BTC. It was the first-ever documented transaction where Bitcoin was used to buy a tangible item.
+
+Let's rewind to May 18 of that year when Laszlo Hajnic, an enthusiastic participant on the bitcointalk forum, [was in search](https://bitcointalk.org/index.php?topic=137.msg1141#msg1141) of a way to exchange his bitcoins for something of value. He generously offered 10,000 BTC to anyone willing to have two delicious large pizzas delivered to his doorstep.
+
+> "I'll pay 10,000 bitcoins for a couple of pizzas.. maybe 2 large ones so I have some left over for the next day. [...] You can make the pizza yourself and bring it to my house or order it for me from a delivery place, but what I'm aiming for is getting food delivered in exchange for bitcoins where I don't have to order or prepare it myself."
+
+Remarkably, within just four days, Laszlo's wish was fulfilled, and he enjoyed two piping hot pizzas for around $50 worth of the "magic internet money." This memorable event marked the birth of a significant Bitcoin tradition, now known as the biggest Bitcoin holiday.
+
+Each year on May 22, people from all corners of the globe join in this festive celebration by ordering or cooking pizzas, honoring Laszlo's pioneering spirit. This year was no exception, with various exciting activities taking place. For instance, Binance distributed pizzas to commemorate the occasion, and a Romanian blogger went above and beyond by ordering a staggering 10,000 pizzas for just over 1 BTC.
+
+> The Bitcoin Herald team wishes to extend congratulations to everyone on this special holiday. While HODLing remains a fundamental aspect of Bitcoin culture, it is equally important to treat yourself with a delicious pizza and pay tribute to Laszlo, who played a pivotal role in driving Bitcoin adoption
+
+🧑‍💻Trezor hacked again?
+-------------------------
+
+*Unciphered, a cybersecurity company, has managed to hack the Trezor hardware wallet.*
+
+![2](https://www.coindesk.com/resizer/aZklgvxoO8BlGOy96aYX_pRRUyM=/1056x594/filters:quality(80):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/O5DUYMRBNVAFHCHSYEXEKXCJUU.jpeg)
+
+In a recent development, cybersecurity company Unciphered successfully [conducted](https://www.coindesk.com/tech/2023/05/24/crypto-security-firm-unciphered-claims-ability-to-physically-hack-trezor-t-wallet/?utm_term=organic&utm_medium=social&utm_source=twitter&utm_campaign=coindesk_main&utm_content=editorial) a physical hack of the Trezor hardware wallet, documenting the process on video. It's worth noting that hacking a wallet requires specialized equipment and physical access, making such incidents rare. Unciphered affirms that this vulnerability cannot be addressed with a simple patch.
+
+While this news has garnered attention, it's not the first case of its kind. Approximately a year ago, a blogger [managed to hack](https://youtu.be/dT9y-KQbqi4?ref=21ideas.org) a Trezor wallet, also requiring costly equipment and extensive expertise.
+
+> It's important to emphasize that this occurrence is unlikely to impact Trezor's reputation or sales significantly. Hardware wallets are designed to safeguard users against online attacks, and by securely storing your seed and wallet, the risk of physical hacking can be mitigated. That said we suggest you purchase a Coldcard by following [this referral link](https://store.coinkite.com/promo/970E08C1C7383C967C7B?ref=21ideas.org) 😉
+
+🤡 When a troll turns out to be a clown
+---------------------------------------
+
+*Ardent gold supporter, Peter Schiff, is releasing an NFT collection on Bitcoin.*
+
+![2](https://nostr.build/i/89dd778e7b324fb2ad3a436e5ba1277544a1e0cdf1bbf95da679e354400766de.jpg)
+
+This week, Peter Schiff tweeted that he was launching an NFT collection representing one of his favorite artist's works. Despite this venture, Schiff maintains his long-standing belief that bitcoin holds no value.
+
+https://twitter.com/PeterSchiff/status/1662210584178475008?t=ejQSFDpyxo6Udrv4r-7qAQ&s=19
+
+> It's worth noting that Schiff's investment company actually accepts bitcoin as a form of payment, as he [revealed](https://youtu.be/6HcRQX9y7Mc?ref=21ideas.org) in one of his interviews. What a unique way to attract attention 🤡
+
+👨‍💻 Ledger opens some more code
+---------------------------------
+
+*Ledger is opening up most of its code in the wake of the Ledger Recovery scandal.*
+
+![2](https://nostr.build/i/2a76e69c85b8e133895747a99338e0af9a144656a8513ecf58fd0f23356aad98.gif)
+
+Last week Ledger unveiled a seed phrase recovery feature via KYC in the event of a lost device. This update sparked a negative reaction from the community, which forced Ledger to postpone the feature indefinitely. Now, however, the company has posted a roadmap for opening up most of the device code. According to the company's assurance, they want everyone to be able to verify the security of Ledger Recovery for themselves.
+
+![2](https://twitter.com/P3b7_/status/1661012196397305859?t=v2_pvQivRUhaeCHWNdB2sw&s=19)
+
+Ledger held a Twitter Spaces event on May 23, where senior management discussed various aspects, including Ledger's advantages over other devices, the rationale behind closed code, Ledger Recovery, and the planned code openness.
+
+https://twitter.com/Ledger/status/1661046862709768200?t=fL8sipjqQ67pS-nypxuX_w&s=19
+
+> The main question as to why wouldn't they release separate firmware for the users wishing to take "advantage" of the Recover feature was answered quite poorly: "Released separate firmware for each new feature is unsustainable. The question regarding the details of KYC and personal data handling also remains a mystery.
+
+🇨🇳 China is craving for Bitcoin
+---------------------------------
+
+*Hong Kong will allow retail investors to trade Bitcoin starting June 1; China has mentioned Bitcoin on state television.*
+
+![2](https://nostr.build/i/a16b2e147bde005b1f08e3e4a3a76bcb62d06aedbc6f8280d7b1a327ae5f121e.jpg![2](
+
+A few months ago, the Hong Kong authorities announced their plans to grant retail investors access to bitcoin and crypto trading. This week, further details regarding the regulations were unveiled. To offer trading services, digital assets must be listed on at least two indexes, and exchanges must obtain the necessary licenses. Huobi and Gate have already applied for local licenses, signaling their interest in this market.
+
+Interestingly, a report on Bitcoin and blockchain technology was aired on Chinese national television. Binance's CEO, Changpeng Zhao, acknowledged this development in a tweet. However, it is worth noting that the report was unexpectedly removed from the broadcast just 24 hours later.
+
+https://twitter.com/cz_binance/status/1661391542504902664?t=MkhqVuKuKtklEfw23L3Oeg&s=19
+
+> While China and Hong Kong do not officially permit bitcoin trading as of May 29, 2023, it does not deter their citizens from owning bitcoin. Moreover, reports suggest that the government utilizes bitcoin and USDT for trading fentanyl with Mexico, despite the regulatory restrictions.
+
+🎭 Coinbase struggles to gain attention
+---------------------------------------
+
+*Coinbase is launching a TV campaign in Washington to explain why we need 'crypto'.*
+
+![2](https://nostr.build/i/683f4cd33da0db498e4b518dc56bf7c33120e118a5d25878cd1bb934ec52f074.jpg)
+
+In response to failed negotiations with regulators, Coinbase has taken a different approach by launching a TV campaign in Washington. This week, CEO Brian Armstrong tweeted about the campaign and shared a link to the aired commercial. In the commercial, Armstrong highlights the importance of 'crypto' for people in the United States.
+
+https://twitter.com/brian_armstrong/status/1660696405525278722?t=vtb5meAhpHn7KkBTppSfLQ&s=19
+
+Coinbase's attempts to regulate the industry according to its own vision looks pathetic. In the video, Armstrong mentions various use cases of Bitcoin, referring to them as 'crypto'. The only non-Bitcoin use case mentioned is decentralized apps. So for the fans of DeFi we'll leave the address of the head office for the most popular decentralized app, Uniswap: 181 North 11th Street Suite 406, Brooklyn.
+
+> Don't forget: [Bitcoin, not shitcoin!](https://svetski.medium.com/why-bitcoin-not-shitcoin-6cc826f4fa52)
+
+### Worth mentioning: 
+
+* Robosats and Bisq [face](https://stacker.news/items/183257/r/Tony) problems in Brazil.
+
+* Japan [introduces](https://news.bitcoin.com/japan-to-apply-tougher-crypto-aml-regulations-travel-rule-in-june/?ref=21ideas.org) stricter regulation for digital assets.
+
+* DCG [closes](https://www.coindesk.com/business/2023/05/25/dcg-sunsets-trade-execution-prime-brokerage-unit-tradeblock/?utm_content=editorial&utm_campaign=coindesk_main&utm_medium=social&utm_source=twitter&utm_term=organic) its trading-focused subsidiary TradeBlock. 
+
+* Several independents have [reported](https://decrypt.co/142056/binance-denies-commingling-billions-in-customer-funds?ref=21ideas.org) that Binance has been commingling its funds with those of customers throughout 2020 and 2021.
+
+* The US government is working with Binance to [block](https://www.coindesk.com/policy/2023/05/23/us-treasury-sanctions-north-korean-owned-binance-wallets-says-entities-used-funds-to-support-wmd-programs/?utm_content=editorial&utm_medium=social&utm_campaign=coindesk_main&utm_term=organic&utm_source=twitter) wallets of users suspected of working with the DPRK.
+
+* Tether to be [Integrated](https://tether.to/en/tether-usdt-to-be-integrated-onto-strike-leading-global-money-app/?ref=21ideas.org) onto Strike
+
+* The world's first Bitcoin skyscraper [to be built](https://finbold.com/the-worlds-first-bitcoin-tower-set-to-be-built-in-dubai/?ref=21ideas.org) in Dubai.
+
+* Hotbit [is closing down](https://hotbit.zendesk.com/hc/en-us/articles/14750194236823?ref=21ideas.org).
+
+<https://nostr.build/p/nb9818.png> 
+
+### Statistics:
+
+<https://nostr.build/p/nb9824.png>
+
+https://primal.net/explore
+
+⚡️ Blockstream and zapvertising
+-------------------------------
+
+*Blockstream demonstrated the power of zapvertising.*
+
+nostr:note1r8ch7p59g3whh0g7nwhszplgmfcl2mc36lazvxx9v3c062ve68ws7lug82
+
+Blockstream recently showcased the influential potential of zapvertising, a groundbreaking concept within the Nostr ecosystem. Allocating a dedicated budget, Blockstream strategically zapped Nostr posts. The outcome? Blockstream's account rose to prominence on popular Nostr aggregators and search engines. 
+
+> The discussion surrounding the zapvertisement model has been a topic of interest within the community for some time. With Nostr's disruptive potential, traditional advertising paradigms are poised for transformation, and zaps are set to play a significant role in this paradigm shift. Find out more about zapvertisement in [this post](https://footstr.com/zapvertise/) by nostr:npub1cj8znuztfqkvq89pl8hceph0svvvqk0qay6nydgk9uyq7fhpfsgsqwrz4u
+
+🐸 Curated feeds and a meme relay
+----------------------------------------------------------------------------------------------------------
+
+*Nostr Band has made it possible for everyone to run their own subrelay and provide followers with curated feeds.*
+
+https://nostr.build/p/nb9417.png
+
+I was lucky enough to be the first to test the new feature, give (hopefully) valuable feedback to nostr:npub1xdtducdnjerex88gkg2qk2atsdlqsyxqaag4h05jmcpyspqt30wscmntxy - the developer of Nostr Band, who came up with the new service. I also launched my own meme-dedicated feed: wss://feeds.nostr.band/meme. By adding it to your relay list you'll get selected memes straight to your global feed. Furthermore, silencing all relays except the meme (so far only works well on Damus) will give you a separate feed exclusively with selected memes.
+
+<https://nostr.build/p/nb9411.gif>
+
+For more on what curated feeds are, how to subscribe to them and how to start your own, see my Habla post [here](https://lnshort.it/feeds/) 
+
+> There's still a long way to go in terms of improving the user experience, but Nostr is on the right track - the protocol aims to provide tools for end users to choose the information they consume, rather than entrust these decisions to a bunch of multibillion-dollar company directors. This is the way.
+
+⚡️ Zap button for your website
+------------------------------
+
+You can now integrate a zap button into any web page that supports embedding HTML code.
+
+<https://www.nobsbitcoin.com/content/images/size/w2000/2023/05/68747470733a2f2f6e6f7374722e6275696c642f702f6e62383637302e676966-1.gif>
+
+This is made possible by simple HTML code. Anyone can implement this feature on their own website. Simply replace the npub in the example with your Nostr public key and implement the code below on your own page:
+
+```
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+<title>Zap Me Baby One More Time</title>
+
+</head>
+
+<body>
+
+<button
+
+id="nostr-zap-target"
+
+data-npub="npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7"
+
+data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band"
+
+>
+
+Zap me ⚡️
+
+</button>
+
+<script src="https://cdn.jsdelivr.net/npm/nostr-zap@0.7.0"></script>
+
+</body>
+
+</html>
+
+```
+
+> Nostr is becoming more deeply integrated into traditional platforms, making its usefulness far more obvious to ordinary users: everyone can interact freely with others without having to show anyone their passport, enter personal financial data or ask for anyone's permission. Hypernostrinization is near.
+
+<https://nostr.build/p/nb9819.png>
+
+### Bitcoin:
+
+* Bitcoin Core 25.0 update released
+
+* Wallet of Satoshi has announced the imminent introduction of an Auto Payment feature enabling small payments that do not require confirmation. Autopay will allow, among other things, to send 1-tap-zaps.
+
+nostr:note1tte5ua3fjt8tj6y0vn8cgs7t28x3lslumvugfyfgxhucwqlu8knq75cd5v
+
+* [Ark](https://burakkeceli.medium.com/introducing-ark-6f87ae45e272?ref=21ideas.org): a second-layer protocol for making cheap, anonymous, offchain payments on top of Bitcoin. 
+
+* Boltz [has launched](https://blog.boltz.exchange/p/launching-liquid-swaps-unfairly-cheap?ref=21ideas.org) swaps between the Lightning network and the Liquid sidechain (you can try it here).
+
+### Nostr:
+
+* Habla News is now available in multiple languages. Simply add the language code after the domain: /es, /it, /ru, /uk... 
+
+* Nostrore browser extension for Safari [is now available in the App Store](https://apps.apple.com/us/app/nostore/id1666553677?ref=21ideas.org).
+
+* The Listr update now gives you the ability to view the posts of users added to the list. 
+
+nostr:note18mmxmpucl9kjydmdydp8dptp8u07wknh9twpnfpuhnv3k9kxtxvsa90nxg 
+
+Check out my list of nostr:naddr1qqgk6etdv5sxxmmwdehkjumnv46hyuczypl4c26wfzswnlk2vwjxky7dhqjgnaqzqwvdvz3qwz5k3j4grrt46qcyqqq82vqggvgd0
+
+* Primal has rolled out support for custom feeds. You can now follow hashtags or search results from the web app. 
+
+nostr:note1smefmfu302yqcvx9q8z7zdjxqz75cl62ylklwk76ymtpy7wr3q6ql53mdw
+
+* Agora update: A new smart search detects if you're looking for a Bluesky, Twitter or Mastodon hashtag and automatically redirects you to a nostr profile. You can now subscribe to users on four social networks using just Nostr. 
+
+nostr:note1pq752gksgm3mjj54ju7f3q0jzxhwm6epfp99vc5cdc2n5ydw7lvs7pf7sh
+
+* Alpha version of Highlighter web app [released](https://highlighter.com/my?ref=21ideas.org).
+
+***
+
+> Thanks for reading! This is a beta version of Bitcoin Herald by nostr:npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7 & nostr:npub1kenh4ng392s0xnsu8t2x65xycaldcpe4lcjml0z00h8qkyul0c2sgjjvcq We will be significantly improving this weekly digest. Please leave your feedback and consider supporting out initiative.
