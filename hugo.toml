@@ -4,18 +4,6 @@ title = 'Herald'
 theme = "hello-friend"
 
 [params]
-  # dir name of your blog content (default is `content/posts`)
-  # contentTypeName = "post"
-
-  # "light" or "dark"
-  # defaultTheme = "dark"
-
-  # if you set this to 0, only submenu trigger will be visible
-  # showMenuItems = 2
-
-  # Enable to show reading time in minutes for posts
-  # showReadingTime = false
-
 [languages]
   [languages.en.params]
     title = "Hello Friend"
@@ -34,11 +22,7 @@ theme = "hello-friend"
 
     [languages.en.params.logo]
       logoText = "Herald"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
+      logoHomeLink = "https://bitcoin21ideas.github.io/herald/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -49,3 +33,7 @@ theme = "hello-friend"
         identifier = "contacts"
         name = "Contacts"
         url = "/contacts"
+      [[languages.en.menu.main]]
+        identifier = "support"
+        name = "Support"
+        url = "/support"
