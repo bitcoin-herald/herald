@@ -1,5 +1,5 @@
 baseURL = 'https://bitcoin21ideas.github.io/herald/'
-languageCode = 'en-us'
+languageCode = 'en'
 title = 'Herald'
 theme = "hello-friend"
 
@@ -17,7 +17,7 @@ theme = "hello-friend"
   # showReadingTime = false
 
 [languages]
-  [languages.en]
+  [languages.en.params]
     title = "Hello Friend"
     subtitle = "A simple theme for Hugo"
     keywords = ""
@@ -34,18 +34,18 @@ theme = "hello-friend"
 
     [languages.en.params.logo]
       logoText = "Herald"
-      logoHomeLink = "https://bitcoin21ideas.github.io/herald/"
+      logoHomeLink = "/"
     # or
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
-    # [languages.en.menu]
-    #   [[languages.en.menu.main]]
-    #     identifier = "about"
-    #     name = "About"
-    #     url = "/about"
-    #   [[languages.en.menu.main]]
-    #     identifier = "showcase"
-    #     name = "Showcase"
-    #     url = "/showcase"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "contacts"
+        name = "Contacts"
+        url = "/contacts"
