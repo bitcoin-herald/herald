@@ -1,4 +1,4 @@
-baseURL = 'https://bitcoin21ideas.github.io/herald/'
+baseURL = 'https://bitcoin-herald.org'
 languageCode = 'en'
 title = 'Herald'
 theme = "hello-friend"
@@ -22,7 +22,7 @@ theme = "hello-friend"
 
     [languages.en.params.logo]
       logoText = "Herald"
-      logoHomeLink = "https://bitcoin21ideas.github.io/herald/"
+      logoHomeLink = "https://bitcoin-herald.org"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
