@@ -1,5 +1,10 @@
 ---
 title: "Support"
-date: "2019-01-18"
-author: "Lorem Ipsum"
+cover: "https://nostr.build/p/nb10428.png"
 ---
+
+Lend a hand to our kick-ass cause - battling shitcoinery, championing censorship-resistant protocols, and restoring the glory days of true journalism.
+
+#Lightning:
+
+![ln-qr](https://nostr.build/p/nb10429.png)
