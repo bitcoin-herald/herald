@@ -1,7 +1,5 @@
 ---
 title: "About"
-date: "2023-06-06"
-author: "Herald"
 cover: "https://nostr.build/p/nb9805.png"
 ---
 
