@@ -6,8 +6,8 @@ theme = "hello-friend"
 [params]
 [languages]
   [languages.en.params]
-    title = ""
-    subtitle = ""
+    title = " "
+    subtitle = " "
     keywords = ""
     copyright = ""
     menuMore = "Show more"
