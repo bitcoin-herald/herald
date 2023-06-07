@@ -25,7 +25,7 @@ theme = "hello-friend"
 
     [languages.en.params.logo]
       logoText = "Herald"
-      logoHomeLink = "https://bitcoin21ideas.github.io/herald/"
+      logoHomeLink = "/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
