@@ -2,7 +2,7 @@
 framed: true
 ---
 
-![sticker](https://nostr.build/i/877b20683b3df704146d4c21b9189b860ced7e7e2645b66c61d6d8989d42cc5d.jpg)
+![sticker](https://nostr.build/i/427e72c73505039c6129f584821d8d1b4220ed3ad94898d9c15a858a7b5bbea4.jpg)
 
 #### Greetings from Bitcoin Herald, your reliable beacon guiding you through the vast expanse of Bitcoin and Nostr news 🛸
 
