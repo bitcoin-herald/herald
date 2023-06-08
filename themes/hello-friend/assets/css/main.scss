@@ -256,17 +256,20 @@ hr {
 }
 
 .framed {
+  box-sizing: border-box;
   padding: 50px;
-  margin: 0 -50px 40px;
+  margin: 0 0 40px;
   border-radius: 10px;
   border: 1px solid var(--border-color);
   width: 100%;
   max-width: 860px;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 
-  @media ($tablet) {
+  @media (max-width: 680px) {
     width: auto;
-    max-width: 680px;
-    margin: 20px 20px 40px;
+    max-width: 100%;
+    margin: 20px 0 40px;
     padding: 30px;
   }
 }
