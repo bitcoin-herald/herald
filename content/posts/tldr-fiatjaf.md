@@ -30,3 +30,10 @@ Arc summed up the potential of Nostr beautifully:
 Want to know more about Nostr? Check out Fiatjaf's [Nostr Manifesto](https://fiatjaf.com/nostr.html)
 
 Read the full Forbes article [here](https://www.forbes.com/sites/digital-assets/2023/05/30/bitcoin-social-network-nostr-creator-fiatjaf-/)
+
+***
+
+Like what you see?
+
+{{< zap npub10eezfnlq4ad2lyf3478na8f5las4l7guuf55vs8378lwtk87hd7slf6zka >}}
+
