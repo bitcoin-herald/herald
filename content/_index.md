@@ -10,4 +10,4 @@ Craving real-time updates on the most significant news? [Follow us on Nostr](htt
 
 **This project is fueled by your zaps**
 
-{{< zap npub10eezfnlq4ad2lyf3478na8f5las4l7guuf55vs8378lwtk87hd7slf6zka >}}
+{{< zap "Zap the hell out of Herald ⚡️" >}}

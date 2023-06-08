@@ -3,25 +3,24 @@ languageCode = 'en'
 title = 'Herald'
 theme = "hello-friend"
 
-[markup.goldmark.renderer]
-  unsafe = true # Allow HTML in md files
+ignoreErrors = ["error-remote-getjson"]
 
 [params]
-[languages]
-  [languages.en.params]
-    title = " "
-    subtitle = " "
-    keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    writtenBy = "Written by"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    minuteReadingTime = "min read"
-    dateFormatSingle = "2006-01-02"
-    dateFormatList = "2006-01-02"
+  [languages]
+    [languages.en.params]
+      title = " "
+      subtitle = " "
+      keywords = ""
+      copyright = ""
+      menuMore = "Show more"
+      writtenBy = "Written by"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      minuteReadingTime = "min read"
+      dateFormatSingle = "2006-01-02"
+      dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
       logoText = "Herald"
