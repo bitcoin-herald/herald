@@ -26,6 +26,7 @@ jobs:
     - name: Generate .well-known
       run: |
         mkdir -p public/.well-known/lnurlp
+        
         echo '{
           "names": {
             "herald": "7e7224cfe0af5aaf9131af8f3e9d34ff615ff91ce2694640f1f1fee5d8febb7d",
@@ -33,6 +34,7 @@ jobs:
             "raptor": "b6677acd112aa0f34e1c3ad46d50c4c77edc0735fe25bfbc4f7dce0b139f7e15"
           }
         }' > public/.well-known/nost.json
+
         echo '{
           "status":"OK",
           "tag":"payRequest",
@@ -45,6 +47,8 @@ jobs:
           "nostrPubkey":"79f00d3f5a19ec806189fcab03c1be4ff81d18ee4f653c88fac41fe03570f432",
           "allowsNostr":true
           }' > public/.well-known/lnurlp/herald
+
+        echo 'include: [".well-known"]' > public/_config.yml
 
 
     - name: Deploy
