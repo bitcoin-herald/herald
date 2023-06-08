@@ -1,6 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+<title>Herald</title>
+</head>
+<body>
 <button
 id="nostr-zap-target"
 data-npub="{{ .Get 0 }}"
 data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band"
 >
 Zap the hell out of Herald ⚡️
+</button>
+<script src="https://cdn.jsdelivr.net/npm/nostr-zap@0.7.0"></script>
+</body>
+</html>
