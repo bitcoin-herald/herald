@@ -5,6 +5,11 @@ cover: "https://nostr.build/p/nb10428.png"
 
 Lend a hand to our kick-ass cause - battling shitcoinery, championing censorship-resistant protocols, and restoring the glory days of true journalism.
 
-# Lightning:
+* _Scan this QR code with your Lightning wallet:_
 
 ![ln-qr](https://nostr.build/p/nb10429.png)
+
+* _...or Zap a few sats:_
+
+{{< zap "Zap me ⚡️" >}}
+
