@@ -10,6 +10,7 @@ We're majorly geeked up about Nostr, so the primo way to touch base with us is t
 * [Herald](https://snort.social/p/npub10eezfnlq4ad2lyf3478na8f5las4l7guuf55vs8378lwtk87hd7slf6zka): `npub10eezfnlq4ad2lyf3478na8f5las4l7guuf55vs8378lwtk87hd7slf6zka`
 * [Tony](https://snort.social/p/npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7): `npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7`
 * [Raptor](https://snort.social/p/npub1kenh4ng392s0xnsu8t2x65xycaldcpe4lcjml0z00h8qkyul0c2sgjjvcq): `npub1kenh4ng392s0xnsu8t2x65xycaldcpe4lcjml0z00h8qkyul0c2sgjjvcq`
+* [Alex](https://snort.social/p/npub1qy672dr858panklxylmcqtv32v7u4w5slug3mkjsx47e2vg6a39qmhvf7x): `npub1qy672dr858panklxylmcqtv32v7u4w5slug3mkjsx47e2vg6a39qmhvf7x`
 
 # Normie Land 
 
