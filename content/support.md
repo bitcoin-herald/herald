@@ -9,7 +9,7 @@ Lend a hand to our kick-ass cause - battling shitcoinery, championing censorship
 
 ![ln-qr](https://nostr.build/p/nb10429.png)
 
-* _... send some sats to herald@bitcoin-herald.org_
+* _... send some sats to [herald@bitcoin-herald.org](lightning:herald@bitcoin-herald.org)_
 
 * _...or Zap a few sats:_
 
