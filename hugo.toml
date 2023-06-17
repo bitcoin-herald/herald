@@ -1,9 +1,11 @@
 baseURL = "https://bitcoin-herald.org/"
-languageCode = 'en'
+languageCode = "en-us"
 title = 'Herald'
 theme = "hello-friend"
 
-ignoreErrors = ["error-remote-getjson"]
+# relative = true
+
+# ignoreErrors = ["error-remote-getjson"]
 
 [params]
   [languages]
