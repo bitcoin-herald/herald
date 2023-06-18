@@ -3,9 +3,7 @@
 <meta property="og:title" content="{{ .Title }}">
 <meta property="og:description" content="{{ .Description }}">
 <meta property="og:image" content="{{ .Params.cover | absURL }}">
-<meta property="og:url" content="{{ .Permalink }}">
 <meta
-
   name="description"
   content="{{ if .IsHome }}{{ $.Site.Params.Subtitle }}{{ else }}{{ .Summary | plainify }}{{ end }}"
 />
