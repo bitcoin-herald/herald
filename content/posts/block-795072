@@ -1,0 +1,308 @@
+---
+title: "Block #795072"
+date: "2023-06-19"
+author: "Herald"
+cover: "https://nostr.build/i/ef203f92760d2847708a9ccf809b8c74ecadd67fdc8ed44f0c4c4164c5443bdf.jpg"  
+description: "On the night of 14th of June 2011 Wikileaks turned to bitcoin as a lifeline for receiving donations. This was a strategic move to counteract a politically motivated banking blockade crafted by leading banks and payment service providers under the influence of the U.S. The attack has destroyed 95% of the organization's revenue, and if it wasn't for Bitcoin, Wikileaks might have ceased to exist. Free speech is inseparable from censorship-resistant money. Remember that!"
+---
+
+Hey bitcoiner!
+
+![img](https://nostr.build/i/22440f16edca609754147ea019e168270466b83118aea55c69c5f9b90e0cf3cf.jpg)
+
+On the night of 14th of June 2011 Wikileaks turned to bitcoin as a lifeline for receiving donations. This was a strategic move to counteract a politically motivated banking blockade crafted by leading banks and payment service providers under the influence of the U.S. The attack has destroyed 95% of the organization's revenue, and if it wasn't for Bitcoin, Wikileaks might have ceased to exist. Free speech is inseparable from censorship-resistant money. Remember that!
+
+Hot Off the Press:
+
+💩 A Ton of Shitcoin News From Binance
+
+⛏️ Bitmain Reigns Supreme? 
+
+🔥 [Blockstream](https://snort.social/p/npub1jg552aulj07skd6e7y2hu0vl5g8nl5jvfw8jhn6jpjk0vjd0waksvl6n8n) Enters the Mining Game
+
+🔫 Attack on Educational Bitcoin Channels
+
+📈 BlackRock's Bitcoin Ballgame
+
+🤑 Bitcoin vs the $156T Global Payments Industry
+
+🍏 Apple Sounds the War Drums 
+
+⚡️ 1 Million Zaps   
+
+👨‍💻 Fresh releases  
+
+👍 Catch Up on Our Picks: 📺 Watch, 🎧 Listen, 📖 Read  
+
+🐸 Meme Hub 💜  
+
+![img](https://nostr.build/p/nb10061.png)
+
+Mempool:
+
+![img](https://nostr.build/i/3d8216e669e9a8cba6110e9df4b39504cab13796a9767d331b8179530124dd0d.jpg)
+
+Lightning:
+
+![img](https://nostr.build/i/ff35f246fec2077664f2d81b08db00d97f082147ea207d39beaa73f99c850c14.jpg)
+
+Mining:
+
+![img](https://nostr.build/i/0d43c09f58a917910db8fdf7ab89405ccbf9537525e7648d2b491c7994ee8f75.jpg)  
+
+![img](https://nostr.build/p/nb10055.png)
+
+💩 A Ton of Shitcoin News From Binance
+--------------------------------------
+
+Binance has provided lots of news to discuss this week -- from potential Lightning adoption growth to regulatory troubles of the biggest shitcoin casino.
+
+![img](https://nostr.build/i/51db56be4b08c734615c09349133c4380fd65564af9d5e87118ab489e054ce14.gif) 
+
+In the past week, a ruling in favor of Binance allowed the exchange to maintain control over customer assets. Despite this, it's no clear win, as negotiations with the SEC are still ongoing. Currently, an understanding [has been reached](https://www.coindesk.com/policy/2023/06/17/binance-sec-strike-deal-to-move-all-us-customer-funds-wallet-keys-back-onshore/) between the SEC and Binance that restricts Binance's international platform employees from accessing BinanceUS assets.
+
+On another note, Binance [has introduced](https://pool.binance.com/en/acceleration?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial) a new transaction accelerator. This feature allows users to push a bitcoin transaction into the subsequent block -- quite a handy tool during times of high user activity and elevated fees. However, there's a catch -- only Binance VIP users can access this feature. Specifically, users must have a monthly trading volume exceeding $1M on the spot market or $15M on futures.
+
+> It's perplexing to see a feature that would benefit beginners, being exclusively available to experienced traders with large volumes. But, there's a bright side: the more the exchange neglects the average user, the more these users are inclined to discover Bitcoin's features, such as Replace-by-Fee (RBF). For a detailed understanding of RBF, you can refer to [this extensive guide](https://thebitcoinmanual.com/articles/rbf-replace-by-fee/) by Bitcoin Manual.
+
+Arguably, the most interesting move by Binance was the long overdue [opening](https://amboss.space/node/03a1f3afd646d77bdaf545cceaf079bab6057eae52c6319b63b5803d0989d6a72f) of lightning channels. Although there's been no official statement on Lightning support, this move certainly hints at future plans. Channels of 10 and 5 BTC have been opened with Kraken and OKX, respectively, indicating the probable future introduction of deposit/withdrawal functionalities via the Lightning network.
+
+{{< nostr note1a3cmfxk8hnhr8t047vx8m2gcjw4jlwjyn6lv78t3vqsdv2mld77sj4n28e >}}
+
+> While Binance appears to position itself as a friendly guide, its focus on profit generation can't be overlooked. Expect high fees to possibly accompany Lightning withdrawals.
+
+Internationally, Binance's situation isn't rosy. News broke this week about Binance [exiting](https://www.binance.com/en/support/announcement/notice-on-changes-of-services-in-the-netherlands-b5a647be31cf469b87fc3337fd461ced) the Dutch market, while in France, investigations into the exchange are [ongoing](https://newsinfrance.com/binance-the-worlds-leading-cryptocurrency-exchange-under-investigation-in-france/).
+
+* * * * *
+
+⛏️ Bitmain Reigns Supreme? 
+---------------------------
+
+A recent study evaluating the mining sector shows Bitmain as the clear frontrunner.
+
+![img](https://nostr.build/i/c7e08e3e00d717c6c69341ba7873b82664149157ef5d6aa7cfe0da7569d764a9.jpg) 
+
+Karim Helmi, a researcher at Coinmetrics, has conducted a study revealing that the mining rig market isn't as decentralized as it seems. In fact, three models from Bitmain - the s19, s19jpro, and s19xp - have a stronghold on the market, accounting for a whopping 76%. Consequently, these models are responsible for the majority of the hash rate generation.
+
+{{< nostr note1a3269jy5gnpzx0x3dda86xr84vyezq8hzmgg73slwkq066p59pkq8ns7qs >}} 
+
+> More competition in the market would be beneficial, and we're keenly observing as [Blockstream](nostr:npub1jg552aulj07skd6e7y2hu0vl5g8nl5jvfw8jhn6jpjk0vjd0waksvl6n8n) ventures into this space with their mining devices. We're looking forward to seeing how the market landscape might change in a few years, Karim.
+
+{{< nostr note1ywsvs520v0gruhwgclgux6q66npxaa90urzgatyeqrf5h6c7qalsckhtx9 >}}
+
+
+* * * * *
+
+🔫 Attack on Educational Bitcoin Channels
+-----------------------------------------
+
+Swan Bitcoin YouTube channel got blocked.
+
+![img](https://nostr.build/i/af5aa31ad5370912f9ea0db342b80c536ee2587df2771caa811e54d5c7dce92d.jpg) 
+
+The Swan Bitcoin YouTube channel [was removed](https://twitter.com/coryklippsten/status/1668661102924935169) by the platform this week. Interestingly, YouTube opted to proceed with this action without giving any particular reason. 
+
+YouTube's explanation for the ban:
+
+> "We reviewed your channel carefully, and have confirmed that it violates our Community Guidelines. We know this is probably disappointing news, but it's our job to make sure the YouTube is a safe place for all. We won't be putting your channel back up on Youtube."
+
+Though the channel has now been reactivated, the incident raises serious questions about YouTube's practices. Swan has decided to transfer their educational content about Bitcoin and macroeconomics to their new media outlet on [https://Twitter.com/swan](https://twitter.com/swan).
+
+> While Swan's move is based on valid reasons, it doesn't represent an ideal solution. Twitter, similar to YouTube, has its own track record of censorship incidents, thus it's not a dependable platform. We are hopeful and confident that Nostr will offer the tools required for educational initiatives to share their content in a decentralized, censorship-resistant manner. Currently, Nostr's lightweight relays, which contribute to the protocol's resilience, cannot host videos, but we are certain that some way will be found. There's no question about it.
+
+* * * * *
+
+📈 BlackRock's Bitcoin Ballgame
+-------------------------------
+
+The leading asset manager has filed for a spot Bitcoin ETF.
+
+![img](https://nostr.build/i/2a061d82665c3befa239f404b0025ce4b9bc696555f419eb25b54cf164eab296.jpg) 
+
+BlackRock, the world's leading asset manager, [has filed](https://www.sec.gov/Archives/edgar/data/1980994/000143774923017574/bit20230608_s1.htm) for a spot Bitcoin ETF, with Coinbase Custody as their chosen custodian. The proposed ETF will be pegged against indices from CF Benchmarks, drawing data from six exchanges. Despite the SEC's history of rejecting spot Bitcoin ETFs, BlackRock's application could potentially pave the way for wider Bitcoin adoption and create a new, regulated investment pathway.
+
+* * * * *
+
+🤑 Bitcoin vs the $156T Global Payments Industry
+------------------------------------------------
+
+River [has released](https://river.com/learn/files/river-payments-report.pdf?ref=blog.river.com) the "Bitcoin vs the $156T Global Payments Industry" research.
+
+We've gathered the most interesting tables and charts for you:
+
+{{< nostr note1v2ng5yxmjlk5avyjppp3u42uxg24xts2rulyaz50jcavf388gjhqyu4tm3 >}}
+
+* * * * *
+
+## Byte-size Buzz:
+
+-   Strike now [allows](https://nitter.at/jackmallers/status/1669081998244151296) users to send faster and cheaper cross-border payments from the U.S. to phone numbers, debit cards, and bank accounts in Mexico.
+
+-   Strike [moves](https://coinmarketcap.com/alexandria/article/strike-moves-to-in-house-bitcoin-custody-solution) to in-house bitcoin custody solution.
+
+-   The SEC [responded](https://www.courtlistener.com/docket/67273468/30/in-re-coinbase-inc/) to a lawsuit from Coinbase regarding market regulation: "Commission staff anticipate being able to make a recommendation to the Commission regarding Coinbase's rulemaking petition within the next 120 days."
+
+-   Fedi's Bitcoin Federations could [onboard](https://decrypt.co/144599/fedis-bitcoin-federations-could-onboard-next-1-billion-users-says-ceo) 1 billion users.
+
+![img](https://nostr.build/p/nb10062.png) 
+
+🍏 Apple Sounds the War Drums
+-----------------------------
+
+This week, Apple threw down the gauntlet to three Lightning payment apps, challenging their existence on the App Store. The tech giant has demanded that these app developers remove the functionality, or face expulsion from the App Store.
+
+{{< nostr note1e8r4ft7vwhe9067w2xktrdve87k7wc3ydw66mp7m7u7wj6jxdx4s3mrk2m >}}
+
+Will Casarin, the developer behind Damus, was the first to be issued such a letter:
+
+{{< nostr note14vfvfnt8ynlp4qj2fcdt5t28judjypdnth83swmdhlythryw2seq2nuuh6 >}}
+
+Subsequently, Zeus was informed that their updated app version would not be allowed on the App Store unless they complied with Apple's guidelines.
+
+{{< nostr note1cvf2xae8p5pvkxkwhdnayxqaun7a7ryk29exfc745d5hty4qft7qzln778 >}}
+
+Fold became the third app within a 48-hour timeframe to receive Apple's written directive:  
+
+{{< tweet user="wlrvs" id="1669396648148213761" >}}
+
+> It's clear that applications facilitating free financial transactions cannot satisfy the corporate giants' demand for absolute control and extraction of revenue from developers, creators, and users. The most viable solution appears to be Progressive Web Apps (PWAs). These applications, in their optimal form, could offer users a similar experience, including offline functionality, swift browsing, and notifications, without the need for developers to pay hefty fees to profit-hungry corporations and bureaucratic entities. [Tony](nostr:npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7) delves into the basics of PWA in his Habla blog post: nostr:naddr1qqp4q46pqyvhwumn8ghj7un9d3shjtnwdaehgunfvd5zumrpdejqzxthwden5te0wp6hyctkd9jxztnwdaehgu3wd3skueqpz4mhxue69uhkummnw3ezu6twdaehgcfwvd3sz9thwden5te0dehhxarj9ekkjmr0w5hxcmmvqyt8wumn8ghj7un9d3shjtnwdaehgu3wvfskueqpzpmhxue69uhkummnw3ezuamfdejszenhwden5te0ve5kcar9wghxummnw3ezuamfdejj7mnsw43rzvrpwaaxkmn2vu6hydtvv94xuu34xv6rxwrwv33hj6ned3nhzumjdee8guf4vae8xdpex4mrgvn3vvmxzamndg6r27tnxulkyun0v9jxxctnws7hgun4v5q3vamnwvaz7tmzd96xxmmfdejhytnnda3kjctvqyd8wumn8ghj7un9d3shjtn0wfskuem9wp5kcmpwv3jhvqg6waehxw309aex2mrp0yhxummnw3e8qmr9v   
+
+* * * * *
+
+⚡️ 1 Million Zaps
+-----------------
+
+*The recent zapathon has set a new record, playing host to the one-millionth zap on Nostr.*
+
+{{< nostr note1safx5k0fj4xcma9azzkm7ma7zzzu34e32n5pk0rqvms4c5chvurslqtwsy >}}
+
+This remarkable milestone comes at an intriguing time, coinciding with Apple's intensified scrutiny of Damus, Nostr's leading iOS app. Whether this surge is fueled by users' defiance or the natural expansion of the user base and zap popularity, one fact stands clear: Nostr is unstoppable.
+
+Wallet of Satoshi also reported the outcome of the latest zapathon, marking it an extraordinary event:
+
+{{< nostr note1ze9h86u4fzf76he5gfev8gre5x72a4glhept4x6gwws40pk5gc0sxtdgnp >}}
+
+> While it appears that this zapathon may be the final one for Damus users (for the time being), we advise not to hastily predict Damus's demise. Will, Damus's developer, has teased some intriguing plans for navigating Apple's idiotic demands and maintaining the zap functionality on the App Store. Learn more from the latest episode of Plebchain Radio: [https://fountain.fm/episode/vT44m6oe2PdTzvvDZxUF](https://fountain.fm/episode/vT44m6oe2PdTzvvDZxUF)
+
+* * * * *
+
+⚖️ A Comparative Table of Nostr Clients
+---------------------------------------
+
+nostr:npub1pvgcusxk7006hvtlyx555erhq8c5pk9svw57snlxujpkgnkup89sekdx8c has published a comparison [table](https://docs.google.com/spreadsheets/d/1GjfN_eMiEywqXfKFHZMw4rLnoQLBXYEyl2NCEtsCXWw/edit?pli=1#gid=0) for Nostr clients.
+
+![img](https://nostr.build/i/f171b2aad1946ef281234b143f854e0568c991a0b01dcb925d00b1cb1f442f7e.jpg)
+
+> For seasoned Nostr users, it's an invitation to contribute thoughts for improvement. It's more than a table - it's a dialogue. And for the newcomers? It's an essential guide to navigate through the sea of Nostr apps. Let's continue enriching this resource!
+
+* * * * *
+
+✍️ Write Reviews, Stack Sats
+----------------------------
+
+A new Nostr blogging platform [Yakihonne](https://yakihonne.com/) has announced numerous bounties for covering interesting Nostr-related topics -- from comparing Nostr clients to explaining NIPs.
+
+![img](https://nostr.build/i/6ad895f1ca15335731f1cddfb753eae73719aeedd718f44e4371f839aae6f190.jpg)
+
+> Nostr has long been a great place to stack sats by providing value to community members. Nostriches appreciate the contributions of content creators - from notes to long-form posts to development contributions. Let's embrace value-4-value!
+
+![img](https://nostr.build/p/nb10063.png) 
+
+Bitcoin:
+--------
+
+-   Stacker news update [brought](https://stacker.news/items/192236/r/Tony) a new "tech" section as well as support for basic keyboard shortcuts for Markdown text formatting.
+
+-   BlueWallet v6.4.5 [introduced](https://github.com/BlueWallet/BlueWallet/releases/tag/v6.4.5) a number of fixes.
+
+-   Zeus v0.7.6 did make its way to the App Store and [provided](https://github.com/ZeusLN/zeus/releases/tag/v0.7.6) the ability to to leave notes on transactions, payments, and invoices, as well as making a number of improvements.
+
+-   Alby has rolled out [v2.1.0](https://github.com/getAlby/lightning-browser-extension/releases/tag/v2.1.0) - a maintenance release with fixes and some minor improvements. Most notable is the new APIs to make it easier to add accounts to the Alby Extension.
+
+-   [RGB Core v0.10.4](https://github.com/RGB-WG/rgb-core/releases/tag/v0.10.4) released.
+
+Nostr:
+------
+
+-   nostr:npub1zuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhsk6c2uc has released an update to the [Listr](https://listr.lol/) app. Lists can now be zapped ⚡️.
+
+{{< nostr note1rhehce7xcmvx76k6u7hp4s0xtantw7gamua5mnup55ap6mqpe44qsutczw >}}
+
+-   nostr:npub1v0lxxxxutpvrelsksy8cdhgfux9l6a42hsj2qzquu2zk7vc9qnkszrqj49 from [Snort.social](https://snort.social/) has implemented a gossip model that optimizes relay load and improves communication between users.
+
+{{< nostr note14ae9u38z0u7vf5mssckh37uw9rcjkm6cavz2upp2p8n49yjmy7zquwgx3u >}}
+
+-   Coracle has introduced relay ratings and advanced feed search functionality.
+
+{{< nostr note1x2mlegeqv0lzd70zjyl0e9ng8efn86ewvwczjcp0m7sa3vce3qfqp9ldtq >}}
+
+-   [Nostr Sites](https://nostrsites.com/) by nostr:npub1v6xwae25wh6etmqw3m6yce9lnk5dnhtqpzk9fhxjfvjsryctjc8q2kxk5t: Turn a Nostr note into your own web page. Check out Tony's page: <https://nostrsites.com/tony>  
+
+-   The Nostore app for storing nostr keys is now [available](nostr:note1mxdva9r2egaq2h28w5y6urxw8mcy7e39xngru2fxw30rkg4n4jwqhzzk49) on the App Store.
+
+-   Primal has introduced full support for DMs.
+
+{{< nostr note19h58vyne74x2rx0s7gqawtlz5qhhlvmqzrrvz3hlkdzngfdzqwtsuglnzs >}}
+
+-   Vitor Pampola [has released](https://github.com/nostr-protocol/nips/pull/602) a draft NIP-172 potentially allowing to run Reddit-like Nostr clients.
+
+-   nostr:npub1vp8fdcyejd4pqjyrjk9sgz68vuhq7pyvnzk8j0ehlljvwgp8n6eqsrnpsw has released [Not A Zap](https://notazap.lol/), a possible solution to Apple's zap ban.
+
+-   [Arcade](https://arcade.city/) v0.1.0-beta - potentially a worthy replacement for Telegram on Nostr. The beta supports private messaging, public and private channels.
+
+-   [Zaplinks](https://zaplinks.lol/): Create a QR code to your profile to get zaps instantly.
+
+Don't forget to zap Herald's Nostr account ;)
+
+![img](https://nostr.build/p/nb11243.png) 
+
+![img](https://nostr.build/p/nb10127.png) 
+
+Building on Nostr 
+------------------
+
+Fetching events with NDK by nostr:npub1zuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhsk6c2uc:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dYnS2G8_-fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+* * * * *
+
+Satoshi Opened A Portal Into Cyberspace
+---------------------------------------
+
+nostr:npub1cqm6dztalp4l6n04f9k20c333xftgangjla337736dr6faz9na0qf2hjec, nostr:npub15dqlghlewk84wz3pkqqvzl2w2w36f97g89ljds8x6c094nlu02vqjllm5m, nostr:npub15vzuezfxscdamew8rwakl5u5hdxw5mh47huxgq4jf879e6cvugsqjck4um, nostr:npub1hk0tv47ztd8kekngsuwwycje68umccjzqjr7xgjfqkm8ffcs53dqvv20pf, nostr:npub1rtlqca8r6auyaw5n5h3l5422dm4sry5dzfee4696fqe8s6qgudks7djtfs on the novel form of property which bitcoin represents, and the significance of that for how one understands and engages both themselves, and the world:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J38-PQ6X8HI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+* * * * *
+
+BTCPrague
+---------
+
+BTCPrague has released two videos from the conference so far. We encourage you to watch Giacomo Zucco's speech "Ordinals Are Retarded":
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/596InlNtfD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+![img](https://nostr.build/p/nb10060.png) 
+
+nostr:npub1akngghxzy6d75y8szp6y44u5pxktwy5aj6zh6jl3ncp8d93fj2fq5mfxa8 has [posted](https://www.forbes.com/sites/briannahonkawadestries/2023/06/15/how-to-earn-bitcoin-and-join-the-creator-economy-with-nostr/) an article about Nostr on Fobes.
+
+![img](https://nostr.build/p/nb10058.png) 
+
+-   Nostrovia's "Bitcoin and China with Joseph Wang": [Listen on Fountain](https://fountain.fm/episode/JresVMQwpkmsgnmkaoVA) 
+
+-   Guy Swan's "Google 'We Have No Moat...'" read as a part of AI Unchained podcast: [Listen on Fountain](https://fountain.fm/episode/7eFcXC9SsIRee9ZEHE3N)
+
+![img](https://nostr.build/p/nb10168.png) 
+
+{{< nostr note19fxrjjw3x2x5gmz0x9850ysd8m3g5ykwds33mrr5zup7e7egr6gqfsu9f9 >}} 
+
+![img](https://nostr.build/p/nb10169.png) 
+
+nostr:npub1r0rs5q2gk0e3dk3nlc7gnu378ec6cnlenqp8a3cjhyzu6f8k5sgs4sq9ac and nostr:npub18c556t7n8xa3df2q82rwxejfglw5przds7sqvefylzjh8tjne28qld0we7 added a handful of RSS feeds to #Nostr. Now you can follow your favorite traditional publications on Nostr.
+
+{{< nostr note103jwtlp2emw78usfgqjxnwhmfjpw3cyhqxpan9q3f88vcgj0h9vs88n9z4 >}} 
+
+![img](https://nostr.build/p/nb10059.png) 
+
+{{< nostr note1xc2g7y7zccklw9f7c0c9yu833muhzht5yf2h2frd0kqwfeh0e6aqyv22sm >}} 
