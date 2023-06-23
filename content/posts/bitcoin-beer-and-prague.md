@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin, Best Brews and Prague"
-date: "2023-65-23"
+date: "2023-06-23"
 author: "Raptor"
 cover: "https://nostr.build/i/7a572b3d7b430d0b824e98e2abead8f17735bc55f63512f63c62beb0a3c54242.jpg"  
 description: "Bitcoin Herald's report on the BTCPrague conference we attended"
@@ -38,8 +38,6 @@ Overall, our reporter was not impressed with this establishment. At the time of 
 ![img](https://nostr.build/i/71749c65aeb05ac8e01d90462601beb9543034c07a4b1a959f7c487ae4c8e101.jpg)
 
 Because of the high concentration of shitcoiners per square foot of space, staying in the cafe itself wasn't an option. But it would have been wrong to just leave, so Raptor bought a cup of coffee with lightning, before continuing his walk around Prague.
-
-![](https://lh6.googleusercontent.com/L7nH82Y5zrg18Wlo8PZ0G-PwWn9akM2Dh8s0EVpzWWm775XM-wiOYs98wVnzJgRA1JzDQspj6_XvPXhyxjOfN4bm8XAdtLOxNjRWkqfN3cl0WieJdGqJ99bsaqpqnOmrit5oM0KtTeZnsViC9aYJ6JE)
 
 ![img](https://nostr.build/i/808752bcea53b8cc09d47daf8ed6dd795d94d101eba72a06141c0129e9b22fda.jpg)
 
