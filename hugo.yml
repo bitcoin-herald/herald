@@ -1,0 +1,22 @@
+baseURL: 'https://bitcoin-herald.org/'
+languageCode: en-us
+theme: hello-friend
+relative: true
+
+languages:
+  en:
+    params:
+      logo:
+        logoText: Herald
+        logoHomeLink: /
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /about
+        - identifier: contacts
+          name: Contacts
+          url: /contacts
+        - identifier: support
+          name: Support
+          url: /support
