@@ -1,0 +1,53 @@
+baseURL: 'https://bitcoin-herald.org'
+theme: hello-friend
+relative: true
+defaultContentLanguage: "en"
+defaultContentLanguageInSubdir: true
+
+languages:
+  ru:
+    languageName: "Русский"
+    title: "Херальд"
+    menuMore: "Показать ещё"
+    readMore: "Читать полностью" 
+    contentDir: content.ru
+    weight: 2
+    params:
+      logo:
+        logoText: Херальд
+        logoHomeLink: /ru
+    menu:
+      main:
+        - identifier: about
+          name: О нас
+          url: /about
+
+        - identifier: contacts
+          name: Контакты
+          url: /contacts
+          
+        - identifier: support
+          name: Поддержать нас
+          url: /support
+  en:
+    languageName: "English"
+    title: "Herald"
+    contentDir: content.en
+    weight: 1
+    params:
+      logo:
+        logoText: Herald
+        logoHomeLink: /en
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /about
+
+        - identifier: contacts
+          name: Contacts
+          url: /contacts
+
+        - identifier: support
+          name: Support
+          url: /support
